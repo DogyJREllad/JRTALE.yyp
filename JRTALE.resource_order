@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Music","order":1,"path":"folders/Music.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_follower","order":7,"path":"objects/obj_follower/obj_follower.yy",},
+    {"name":"obj_musicPlayer","order":3,"path":"objects/obj_musicPlayer/obj_musicPlayer.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_quittingAndFullscreen","order":5,"path":"objects/obj_quittingAndFullscreen/obj_quittingAndFullscreen.yy",},
+    {"name":"obj_roomSelector","order":6,"path":"objects/obj_roomSelector/obj_roomSelector.yy",},
+    {"name":"obj_solidTile","order":4,"path":"objects/obj_solidTile/obj_solidTile.yy",},
+    {"name":"obj_textStuff","order":1,"path":"objects/obj_textStuff/obj_textStuff.yy",},
+    {"name":"room_testOverworld","order":1,"path":"rooms/room_testOverworld/room_testOverworld.yy",},
+    {"name":"roomSelect","order":2,"path":"rooms/roomSelect/roomSelect.yy",},
+    {"name":"mus_killedAll","order":1,"path":"sounds/mus_killedAll/mus_killedAll.yy",},
+    {"name":"spr_friskWalkBackwards","order":1,"path":"sprites/spr_friskWalkBackwards/spr_friskWalkBackwards.yy",},
+    {"name":"spr_friskWalkForwards","order":2,"path":"sprites/spr_friskWalkForwards/spr_friskWalkForwards.yy",},
+    {"name":"spr_friskWalkSideways","order":3,"path":"sprites/spr_friskWalkSideways/spr_friskWalkSideways.yy",},
+    {"name":"spr_hitbox","order":4,"path":"sprites/spr_hitbox/spr_hitbox.yy",},
+    {"name":"spr_hitboxMirrored","order":7,"path":"sprites/spr_hitboxMirrored/spr_hitboxMirrored.yy",},
+    {"name":"spr_interactable","order":6,"path":"sprites/spr_interactable/spr_interactable.yy",},
+    {"name":"spr_solidTile","order":5,"path":"sprites/spr_solidTile/spr_solidTile.yy",},
+  ],
+}
